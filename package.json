@@ -1,0 +1,23 @@
+{
+  "name": "test-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "http-server public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aura5/test-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aura5/test-git/issues"
+  },
+  "homepage": "https://github.com/Aura5/test-git#readme",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
